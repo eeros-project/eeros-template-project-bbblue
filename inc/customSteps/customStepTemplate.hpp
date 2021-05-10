@@ -19,6 +19,7 @@ public:
     }
 
 private:
+    // Define variables, conditions, monitors, exception sequences, ...
 };
 
 #endif // CUSTOMSTEPTEMPLATE_HPP_
