@@ -19,7 +19,7 @@ public:
     }
 
 private:
-    // Define variables, ...
+    // Define variables, conditions, monitors, exception sequences, ...
 };
 
 #endif // CUSTOMSEQUENCETEMPLATE_HPP_
