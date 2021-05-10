@@ -19,6 +19,7 @@ public:
     }
 
 private:
+    // Define variables, ...
 };
 
 #endif // CUSTOMSEQUENCETEMPLATE_HPP_
