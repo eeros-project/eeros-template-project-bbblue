@@ -1,6 +1,7 @@
 #ifndef CUSTOMSTEPTEMPLATE_HPP_
 #define CUSTOMSTEPTEMPLATE_HPP_
 
+#include <eeros/sequencer/Sequence.hpp>
 #include <eeros/sequencer/Step.hpp>
 
 class CustomStepName : public eeros::sequencer::Step
